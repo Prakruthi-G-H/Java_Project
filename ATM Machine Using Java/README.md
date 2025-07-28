@@ -34,6 +34,35 @@ ATM-Machine-Java/
 └── README.md # Project description and instructions
 ```
 
+## ▶️ How to Run
+
+### 📥 Option 1: Clone from GitHub and Run via Terminal
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ATM-Machine-Java.git
+2.Navigate to the src/ directory:
+  cd ATM-Machine-Java/src
+3.Compile the Java files:
+  javac project/*.java
+4.Run the program:
+  java project.Machine_ATM
+
+💻 Option 2: Run in IntelliJ or Eclipse
+
+1.Clone the repo or download the ZIP.
+
+2.Open your IDE and import the project as a Java project.
+
+3.Inside src, create the package project if not detected automatically.
+
+4.Place the files:
+  -Bank.java
+  -ATM.java
+  -Machine_ATM.java
+
+5.Right-click on Machine_ATM.java → Run.
+
 ```bash
 📌 Sample Output
 
@@ -48,3 +77,9 @@ Enter Amount to be Deposited: 5000
 Depositing Rs.5000
 Amount Deposited Successfully
 ```
+## 👩‍💻 Developed by
+
+**Prakruthi G H**  
+📍 Bangalore, India  
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)
