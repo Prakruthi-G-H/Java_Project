@@ -22,6 +22,7 @@ This is a simple **ATM Machine** simulation built using **Core Java**. It demons
 
 ## 📂 Project Structure
 
+```bash
 ATM-Machine-Java/
 │
 ├── src/
@@ -31,6 +32,7 @@ ATM-Machine-Java/
 │ └── Machine_ATM.java # Main class with menu and user interaction
 │
 └── README.md # Project description and instructions
+```
 
 📌 Sample Output
 
