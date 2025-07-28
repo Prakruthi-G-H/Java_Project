@@ -34,6 +34,7 @@ ATM-Machine-Java/
 └── README.md # Project description and instructions
 ```
 
+```bash
 📌 Sample Output
 
 WELCOME TO ATM
@@ -46,4 +47,4 @@ Enter Choice: 1
 Enter Amount to be Deposited: 5000
 Depositing Rs.5000
 Amount Deposited Successfully
-
+```
