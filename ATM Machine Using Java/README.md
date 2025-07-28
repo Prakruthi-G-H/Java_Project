@@ -41,12 +41,15 @@ ATM-Machine-Java/
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ATM-Machine-Java.git
+   
 2.Navigate to the src/ directory:
-  cd ATM-Machine-Java/src
+  -cd ATM-Machine-Java/src
+  
 3.Compile the Java files:
-  javac project/*.java
+  -javac project/*.java
+  
 4.Run the program:
-  java project.Machine_ATM
+  -java project.Machine_ATM
 
 💻 Option 2: Run in IntelliJ or Eclipse
 
