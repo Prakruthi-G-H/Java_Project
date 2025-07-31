@@ -28,7 +28,7 @@ java Machine_ATM
 ```
 ---
 
-2. ❌⭕ Tic Tac Toe Using Java  
+2. ❌⭕ [Tic Tac Toe Using Java] (https://github.com/Prakruthi-G-H/Java_Project/tree/main/Tic%20Tac%20Toe%20Using%20Java)
 A simple 2-player terminal-based Tic Tac Toe game where players take turns marking `X` and `O` on a 3x3 board.
 
 **📌 Technologies Used:** Java (Core), OOP, Arrays, Loops  
