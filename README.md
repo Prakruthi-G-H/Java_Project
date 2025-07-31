@@ -25,3 +25,18 @@ git clone https://github.com/Prakruthi-G-H/Java_Project.git
 cd "Java_Project/ATM Machine Using Java"
 javac *.java
 java Machine_ATM
+
+---
+
+2. ❌⭕ Tic Tac Toe Using Java  
+A simple 2-player terminal-based Tic Tac Toe game where players take turns marking `X` and `O` on a 3x3 board.
+
+**📌 Technologies Used:** Java (Core), OOP, Arrays, Loops  
+**📂 Files:**
+- `TicTacToe.java`
+
+**▶️ How to Run:**
+```bash
+cd "Java_Project/Tic Tac Toe Using Java"
+javac TicTacToe.java
+java TicTacToe
