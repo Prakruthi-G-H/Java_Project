@@ -25,7 +25,7 @@ git clone https://github.com/Prakruthi-G-H/Java_Project.git
 cd "Java_Project/ATM Machine Using Java"
 javac *.java
 java Machine_ATM
-
+```
 ---
 
 2. ❌⭕ Tic Tac Toe Using Java  
