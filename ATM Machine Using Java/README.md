@@ -48,8 +48,8 @@ ATM-Machine-Java/
 3.Compile the Java files:
   javac *.java
   
-4.Run the program:
-  java project.Machine_ATM
+4.Run the program (main file is Machine_ATM):
+  java Machine_ATM
 
 💻 Option 2: Run in IntelliJ or Eclipse
 
