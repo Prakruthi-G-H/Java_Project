@@ -40,13 +40,13 @@ ATM-Machine-Java/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ATM-Machine-Java.git
+   git clone https://github.com/Prakruthi-G-H/Java_Project.git
    
-2.Navigate to the src/ directory:
-  cd ATM-Machine-Java/src
+2.Navigate to the  project directory:
+  cd "Java_Project/ATM Machine Using Java"
   
 3.Compile the Java files:
-  javac project/*.java
+  javac *.java
   
 4.Run the program:
   java project.Machine_ATM
